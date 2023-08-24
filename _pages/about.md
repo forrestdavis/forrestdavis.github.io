@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor of <a href='https://www.cs.colgate.edu/'>Computer
-Science</a> at <a href='https://www.colgate.edu/'> Colgate University.</a>.
+Science</a> at <a href='https://www.colgate.edu/'> Colgate University</a>.
 Before joining Colgate, I was a Postdoctoral Associate in the <a
 href='https://linguistics.mit.edu/'>Linguistics and Philosophy Department</a> at
 the <a href='https://www.mit.edu/'>Massachusetts Institute of Technology</a>. I
@@ -44,4 +44,4 @@ case studies.
 
 Besides research and teaching, I love coffee, watching movies, swimming, hiking,
 and skiing. I cohabitate with a cat named Figaro, who spends his time sleeping
-throughout our apartment, sitting on my keyboard, and meowing for food.
+throughout our home, sitting on my keyboard, and meowing for food.
