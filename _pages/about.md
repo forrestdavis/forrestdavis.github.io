@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Computer Science. <a href='https://cs.colgate.edu/'> Colgate University.</a> 
+subtitle: Assistant Professor of Computer Science | <a href='https://cs.colgate.edu/'> Colgate University.</a> 
 
 profile:
   align: right
@@ -19,8 +19,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor of <a href='https://www.cs.colgate.edu/'>Computer
+Science</a> at <a href='https://www.colgate.edu/'> Colgate University.</a>.
+Before joining Colgate, I was a Postdoctoral Associate in the <a
+href='https://linguistics.mit.edu/'>Linguistics and Philosophy Department</a> at
+the <a href='https://www.mit.edu/'>Massachusetts Institute of Technology</a>. I
+received my Ph.D. from the <a href='https://linguistics.cornell.edu/'>Department
+of Linguistics</a> at <a href='https://www.cornell.edu/'>Cornell University</a>
+where I was primarily advised by <a href='https://vansky.github.io/'>Marten van
+Schijndel</a> and my B.A. in Computer Science and Mathematics from <a
+href='https://www.columbia.edu/'>Columbia University</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in mismatches between our experiences with language and
+our knowledge of language. That is, I try to find in linguistic data systematic
+deviations from what we might expect given our knowledge of grammar. Findings
+like this excite me because they suggest cases where our minds extend beyond
+mere correspondence with experience. My primary tool at the moment is
+neural language models (e.g., GPT-3) trained on text data. Drawing on insights
+from psycholinguistics, linguistic theory, and cross-linguistic variation, I
+expose limitations in current AI models and tie these limitations to properties
+of training data. My dissertation titled <a href=''>"On the Limitations of Data: Mismatches
+between Neural Models of Language and Humans"</a> sketches out my perspective with
+case studies.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides research and teaching, I love coffee, watching movies, swimming, hiking,
+and skiing. I cohabitate with a cat named Figaro, who spends his time sleeping
+throughout our apartment, sitting on my keyboard, and meowing for food.
