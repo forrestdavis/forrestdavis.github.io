@@ -25,9 +25,9 @@ Before joining Colgate, I was a Postdoctoral Associate in the <a
 href='https://linguistics.mit.edu/'>Linguistics and Philosophy Department</a> at
 the <a href='https://www.mit.edu/'>Massachusetts Institute of Technology</a>. I
 received my Ph.D. from the <a href='https://linguistics.cornell.edu/'>Department
-of Linguistics</a> at <a href='https://www.cornell.edu/'>Cornell University</a>
+of Linguistics</a> at <a href='https://www.cornell.edu/'>Cornell University</a>,
 where I was primarily advised by <a href='https://vansky.github.io/'>Marten van
-Schijndel</a> and my B.A. in Computer Science and Mathematics from <a
+Schijndel</a>, and my B.A. in Computer Science and Mathematics from <a
 href='https://www.columbia.edu/'>Columbia University</a>. 
 
 I am broadly interested in mismatches between our experiences with language and
