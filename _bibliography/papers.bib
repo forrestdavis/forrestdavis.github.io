@@ -1,5 +1,18 @@
 ---
 ---
+@inproceedings{zhang-2023-illusions,
+    title = "Can Language Models Be Tricked by Language Illusions? Easier with Syntax, Harder with Semantics",
+    author = "Zhang, Yuhan and Gibson, Edward and Davis, Forrest",
+    booktitle = "Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL)",
+    month = dec,
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    code={https://github.com/forrestdavis/LanguageIllusions},
+    arxiv={2311.01386},
+    pdf={Zhang-2023-Illusions-CoNLL.pdf},
+    bibtex_show={true},
+    abstract = "Despite neural language models qualitatively capturing many human linguistic behaviors, recent work has demonstrated that they underestimate the true processing costs of ungrammatical structures. We extend these more fine-grained comparisons between humans and models by investigating the interaction between Principle B and coreference processing. While humans use Principle B to block certain structural positions from affecting their incremental processing, we find that GPT-based language models are influenced by ungrammatical positions. We conclude by relating the mismatch between neural models and humans to properties of training data and suggest that certain aspects of human processing behavior do not directly follow from linguistic data.",
+}
 @inproceedings{davis-2022-incremental,
     title = "Incremental Processing of Principle {B}: Mismatches Between Neural Models and Humans",
     author = "Davis, Forrest",
@@ -11,6 +24,129 @@
     url = "https://aclanthology.org/2022.conll-1.11",
     doi = "10.18653/v1/2022.conll-1.11",
     pages = "144--156",
+    code={https://github.com/forrestdavis/PrincipleB},
+    html={https://aclanthology.org/2022.conll-1.11/},
+    pdf={2022-Davis-PrincipleB-CoNLL.pdf},
+    bibtex_show={true},
     abstract = "Despite neural language models qualitatively capturing many human linguistic behaviors, recent work has demonstrated that they underestimate the true processing costs of ungrammatical structures. We extend these more fine-grained comparisons between humans and models by investigating the interaction between Principle B and coreference processing. While humans use Principle B to block certain structural positions from affecting their incremental processing, we find that GPT-based language models are influenced by ungrammatical positions. We conclude by relating the mismatch between neural models and humans to properties of training data and suggest that certain aspects of human processing behavior do not directly follow from linguistic data.",
+}
+
+@inproceedings{davis-van-schijndel-2021-uncovering,
+    title = "Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning",
+      author = {Davis, Forrest and {van Schijndel}, Marten},
+    editor = "Zong, Chengqing  and
+      Xia, Fei  and
+      Li, Wenjie  and
+      Navigli, Roberto",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.93",
+    doi = "10.18653/v1/2021.acl-long.93",
+    pages = "1159--1171",
+    code={https://github.com/forrestdavis/ImplicitCausality},
+    html={https://aclanthology.org/2021.acl-long.93},
+    pdf={2021-Davis-UncoveringConstraints-ACL.pdf},
+    poster={Davis-ACL2021-poster.pdf},
+    bibtex_show={true},
+    abstract = "A growing body of literature has focused on detailing the linguistic knowledge embedded in large, pretrained language models. Existing work has shown that non-linguistic biases in models can drive model behavior away from linguistic generalizations. We hypothesized that competing linguistic processes within a language, rather than just non-linguistic model biases, could obscure underlying linguistic knowledge. We tested this claim by exploring a single phenomenon in four languages: English, Chinese, Spanish, and Italian. While human behavior has been found to be similar across languages, we find cross-linguistic variation in model behavior. We show that competing processes in a language act as constraints on model behavior and demonstrate that targeted fine-tuning can re-weight the learned constraints, uncovering otherwise dormant linguistic knowledge in models. Our results suggest that models need to learn both the linguistic constraints in a language and their relative ranking, with mismatches in either producing non-human-like behavior.",
+}
+
+@article{davis-altmann-2021-event,
+    title = {Finding Event Structure in Time: What Recurrent Neural Networks can tell us about Event Structure in Mind},
+    journal = {Cognition},
+    volume = {213},
+    pages = {104651},
+    year = {2021},
+    issn = {0010-0277},
+    doi = {https://doi.org/10.1016/j.cognition.2021.104651},
+    url = {https://www.sciencedirect.com/science/article/pii/S0010027721000706},
+    author = {Forrest Davis and Gerry Altmann},
+    bibtex_show={true},
+    code={https://github.com/forrestdavis/ExperimentNorming},
+    pdf={Davis_Altmann_2021.pdf},
+    keywords = {Recurrent neural networks, Event representation, Discourse dependencies},
+    abstract = {Under a theory of event representations that defines events as dynamic changes in objects across both time and space, as in the proposal of Intersecting Object Histories (Altmann & Ekves, 2019), the encoding of changes in state is a fundamental first step in building richer representations of events. In other words, there is an inherent dynamic that is captured by our knowledge of events. In the present study, we evaluated the degree to which this dynamic was inferable from just the linguistic signal, without access to visual, sensory, and embodied experience, using recurrent neural networks (RNNs). Recent literature exploring RNNs has largely focused on syntactic and semantic knowledge. We extend this domain of investigation to representations of events within RNNs. In three studies, we find preliminary evidence that RNNs capture, in their internal representations, the extent to which objects change states; for example, that chopping an onion changes the onion by more than just peeling the onion. Moreover, the temporal relationship between state changes is encoded to some extent. We found RNNs are sensitive to how chopping an onion and then weighing it, or first weighing it, entails the onion that is being weighed being in a different state depending on the adverb. Our final study explored what factors influence the propagation of these rudimentary event representations forward into subsequent sentences. We conclude that while there is much still to be learned about the abilities of RNNs (especially in respect of the extent to which they encode objects as specific tokens), we still do not know what are the equivalent representational dynamics in humans. That is, we take the perspective that the exploration of computational models points us to important questions about the nature of the human mind.}
+}
+
+@inproceedings{davis-van-schijndel-2020-discourse,
+    title = "Discourse structure interacts with reference but not syntax in neural language models",
+      author = {Davis, Forrest and {van Schijndel}, Marten},
+    editor = "Fern{\'a}ndez, Raquel  and
+      Linzen, Tal",
+    booktitle = "Proceedings of the 24th Conference on Computational Natural Language Learning",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.conll-1.32",
+    doi = "10.18653/v1/2020.conll-1.32",
+    pages = "396--407",
+    code={https://github.com/forrestdavis/ImplicitCausality},
+    html={https://aclanthology.org/2020.conll-1.32/},
+    pdf={Davis-2020-ImplicitCausality-CoNLL.pdf},
+    bibtex_show={true},
+    abstract = "Language models (LMs) trained on large quantities of text have been claimed to acquire abstract linguistic representations. Our work tests the robustness of these abstractions by focusing on the ability of LMs to learn interactions between different linguistic representations. In particular, we utilized stimuli from psycholinguistic studies showing that humans can condition reference (i.e. coreference resolution) and syntactic processing on the same discourse structure (implicit causality). We compared both transformer and long short-term memory LMs to find that, contrary to humans, implicit causality only influences LM behavior for reference, not syntax, despite model representations that encode the necessary discourse information. Our results further suggest that LM behavior can contradict not only learned representations of discourse but also syntactic agreement, pointing to shortcomings of standard language modeling.",
+}
+
+@inproceedings{davis-van-schijndel-2020-recurrent,
+    title = "Recurrent Neural Network Language Models Always Learn {E}nglish-Like Relative Clause Attachment",
+      author = {Davis, Forrest and {van Schijndel}, Marten},
+    editor = "Jurafsky, Dan  and
+      Chai, Joyce  and
+      Schluter, Natalie  and
+      Tetreault, Joel",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.179",
+    doi = "10.18653/v1/2020.acl-main.179",
+    pages = "1979--1990",
+    code={https://github.com/forrestdavis/AmbiAttach},
+    html={https://aclanthology.org/2020.acl-main.179},
+    pdf={Davis-2020-Attachment-ACL.pdf},
+    bibtex_show={true},
+    abstract = "A standard approach to evaluating language models analyzes how models assign probabilities to valid versus invalid syntactic constructions (i.e. is a grammatical sentence more probable than an ungrammatical sentence). Our work uses ambiguous relative clause attachment to extend such evaluations to cases of multiple simultaneous valid interpretations, where stark grammaticality differences are absent. We compare model performance in English and Spanish to show that non-linguistic biases in RNN LMs advantageously overlap with syntactic structure in English but not Spanish. Thus, English models may appear to acquire human-like syntactic preferences, while models trained on Spanish fail to acquire comparable human-like preferences. We conclude by relating these results to broader concerns about the relationship between comprehension (i.e. typical language model use cases) and production (which generates the training data for language models), suggesting that necessary linguistic biases are not present in the training signal at all.",
+}
+
+@inproceedings{davisInteractionContextRecurrent2020,
+  title = {Interaction with {{Context During Recurrent Neural Network Sentence Processing}}},
+  booktitle = {Proceedings of the 42nd {{Annual Conference}} of the {{Cognitive Science Society}}},
+  author = {Davis, Forrest and {van Schijndel}, Marten},
+  year = {2020},
+  month = may,
+  pages = {2744--2750},
+  doi = {10.31234/osf.io/8r65d},
+    code={https://github.com/forrestdavis/GardenPath},
+    html={https://cognitivesciencesociety.org/cogsci20/papers/0672/index.html},
+    pdf={Davis-2020-Interaction-CogSci.pdf},
+    bibtex_show={true},
+  abstract = {Syntactic ambiguities in isolated sentences can lead to increased difficulty in incremental sentence processing, a phenomenon known as a garden-path effect. This difficulty, however, can be alleviated for humans when they are presented with supporting discourse contexts. We tested whether recurrent neural network (RNN) language models (LMs) could learn linguistic representations that are similarly influenced by discourse context. RNN LMs have been claimed to learn a variety of syntactic constructions. However, recent work has suggested that pragmatically conditioned syntactic phenomena are not acquired by RNNs. In comparing model behavior to human behavior, we show that our models can, in fact, learn pragmatic constraints that alleviate garden-path effects given the correct training and testing conditions. This suggests that some aspects of linguistically relevant pragmatic knowledge can be learned from distributional information alone.},
+}
+
+@inproceedings{friedman-etal-2017-linguistically,
+    title = "Linguistically Rich Vector Representations of Supertags for {TAG} Parsing",
+    author = "Friedman, Dan  and
+      Kasai, Jungo  and
+      McCoy, R. Thomas  and
+      Frank, Robert  and
+      Davis, Forrest  and
+      Rambow, Owen",
+    editor = "Kuhlmann, Marco  and
+      Scheffler, Tatjana",
+    booktitle = "Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms",
+    month = sep,
+    year = "2017",
+    address = "Ume{\aa}, Sweden",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W17-6213",
+    html = {https://aclanthology.org/W17-6213},
+    pdf={Davis-2017-TAG.pdf},
+    bibtex_show={true},
+    pages = "122--131",
 }
 

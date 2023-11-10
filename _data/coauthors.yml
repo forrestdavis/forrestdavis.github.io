@@ -2,6 +2,14 @@
   - firstname: ["Marten"]
     url: https://vansky.github.io/ 
 
+"Zhang":
+  - firstname: ["Yuhan"]
+    url: https://sites.google.com/view/yhzhang
+
+"Gibson":
+  - firstname: ["Edward", "Ted"]
+    url: http://tedlab.mit.edu/
+
 "Altmann":
   - firstname: ["Gerry", "Gerald"]
     url: http://www.psycholinguistics.com/gerry_altmann/index.html
