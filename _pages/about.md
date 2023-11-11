@@ -38,7 +38,8 @@ mere correspondence with experience. My primary tool at the moment is
 neural language models (e.g., GPT-3) trained on text data. Drawing on insights
 from psycholinguistics, linguistic theory, and cross-linguistic variation, I
 expose limitations in current AI models and tie these limitations to properties
-of training data. My dissertation titled <a href=''>"On the Limitations of Data: Mismatches
+of training data. My dissertation titled <a
+href='../assets/pdf/DavisDissertation.pdf'>"On the Limitations of Data: Mismatches
 between Neural Models of Language and Humans"</a> sketches out my perspective with
 case studies.  
 
