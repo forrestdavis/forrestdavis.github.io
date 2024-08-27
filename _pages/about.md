@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>309 McGregory</p>
+    <p>322 Bernstein Hall</p>
     <p>Colgate University</p>
     <p>Hamilton, NY 13346</p>
 
