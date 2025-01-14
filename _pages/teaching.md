@@ -9,5 +9,4 @@ nav_order: 4
 
 Current Courses
 
-- [COSC101C: Introduction to Computing I](https://forrestdavis.github.io/cosc101/)
-- [COSC426A/LA: Natural Language Processing](https://forrestdavis.github.io/cosc426/)
+- [COSC410A/LA: Applied Machine Learning](https://forrestdavis.github.io/cosc410/)
