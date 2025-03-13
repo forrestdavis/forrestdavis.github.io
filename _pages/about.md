@@ -35,10 +35,10 @@ our knowledge of language. That is, I try to find in linguistic data systematic
 deviations from what we might expect given our knowledge of grammar. Findings
 like this excite me because they suggest cases where our minds extend beyond
 mere correspondence with experience. My primary tool at the moment is
-neural language models (e.g., GPT-3) trained on text data. Drawing on insights
-from psycholinguistics, linguistic theory, and cross-linguistic variation, I
-expose limitations in current AI models and tie these limitations to properties
-of training data. My dissertation titled <a
+neural language models (e.g., large language models) trained on text data.
+Drawing on insights from psycholinguistics, linguistic theory, and
+cross-linguistic variation, I expose limitations in current AI models and tie
+these limitations to properties of training data. My dissertation titled <a
 href='../assets/pdf/DavisDissertation.pdf'>"On the Limitations of Data: Mismatches
 between Neural Models of Language and Humans"</a> sketches out my perspective with
 case studies.  
