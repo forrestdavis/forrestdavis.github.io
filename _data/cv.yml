@@ -25,10 +25,12 @@
 - title: Service
   type: time_table
   contents:
+    - title: Council for Faculty Development Committee Member
+      year: 2025-2028
     - title: Mind, Brain, and Behavior Initiative (MBBI) Executive Committee Member
       year: 2024-2025
     - title: CS Bytes Coordinator
-      year: 2023-
+      year: 2023-2025
     - title: Academic Liaison for Women and Men's Swimming and Diving
       year: 2023-
     - title: Senior Editor of Semantics and Linguistic Theory (SALT 29)
@@ -45,6 +47,8 @@
 - title: Reviewing
   type: time_table
   contents:
+    - title: CoNLL, COLM, Penn Linguistics Conference, CogSci
+      year: 2025
     - title: CoNLL, COLM
       year: 2024
     - title: ACL, CoNLL, EMNLP, HSP, Penn Linguistics Conference, LSA
@@ -61,7 +65,8 @@
 - title: Journal Reviewing 
   type: list
   contents:
-    - Cognition, Glossa Psycholinguistics
+    - Cognition, Glossa Psycholinguistics, Transactions of the Association for
+    Computational Linguistics (TACL)
 
 - title: Awards
   type: time_table
