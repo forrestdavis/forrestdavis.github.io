@@ -47,9 +47,9 @@
 - title: Reviewing
   type: time_table
   contents:
-    - title: CoNLL, COLM, Penn Linguistics Conference, CogSci
+    - title: CogSci, COLM, Penn Linguistics Conference, CoNLL
       year: 2025
-    - title: CoNLL, COLM
+    - title: CoNLL, CogSci, COLM, Penn Linguistics Conference, LSA
       year: 2024
     - title: ACL, CoNLL, EMNLP, HSP, Penn Linguistics Conference, LSA
       year: 2023
@@ -65,8 +65,8 @@
 - title: Journal Reviewing 
   type: list
   contents:
-    - Cognition, Glossa Psycholinguistics, Transactions of the Association for
-    Computational Linguistics (TACL)
+    - Cognition, Glossa Psycholinguistics, Computational Linguistics,
+    Transactions of the Association for Computational Linguistics (TACL)
 
 - title: Awards
   type: time_table
