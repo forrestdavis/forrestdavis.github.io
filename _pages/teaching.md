@@ -9,5 +9,4 @@ nav_order: 4
 
 Current Courses
 
-- [COSC410A/LA: Applied Machine Learning](https://forrestdavis.github.io/cosc410/)
-- [CORE S119: Language as Human Nature](https://forrestdavis.github.io/cores119/)
+- [COSC 290: Discrete Structures](https://forrestdavis.github.io/cosc290/)
