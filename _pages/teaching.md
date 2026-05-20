@@ -9,4 +9,4 @@ nav_order: 4
 
 Current Courses
 
-- [COSC 290: Discrete Structures](https://forrestdavis.github.io/cosc290/)
+- I am on sabbatical for Fall 2025 - Spring 2026 
